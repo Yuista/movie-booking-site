@@ -1,0 +1,12 @@
+{
+  "name": "movie-seat-booking",
+  "version": "1.0.0",
+  "description": "Movie seat booking app with JSON Server",
+  "scripts": {
+    "server": "json-server --watch db.json --port 3000"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "json-server": "^0.17.4"
+  }
+}
