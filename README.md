@@ -1,4 +1,4 @@
-En enkel bokningsapp byggd med vanilla JavaScript, HTML och CSS.
+En enkel bokningsapp byggd med vanilla JS, HTML och CSS.
 
 Dag 1 
 Kollade igenom det startmaterial som gavs ut och satte upp projektet lokalt och öppnade det i VSC.
