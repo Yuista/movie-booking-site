@@ -1,3 +1,5 @@
+Github Pages sidan kommer inte kunna ladda filmer pga att JSON filen inte kan laddas eftersom att det är en statisk sida.
+
 En enkel bokningsapp byggd med vanilla JS, HTML och CSS.
 
 Dag 1 
